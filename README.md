@@ -3,6 +3,8 @@ Learning Compatible Embeddings, ICCV 2021
 
 by [Qiang Meng](https://github.com/IrvingMeng), [Chixiang Zhang](https://github.com/universebh), [Xiaoqiang Xu](https://github.com/APlayBoy/) and [Feng Zhou](http://www.f-zhou.com/)
 
+Paper: [Arxiv](https://arxiv.org/abs/2108.01958)
+
 ![LCE](lce.png)
 
 For the interests of the company, we cannot share the source codes publicly.
